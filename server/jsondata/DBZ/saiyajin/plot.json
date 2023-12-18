@@ -1,0 +1,11 @@
+[
+    {"plot": "Los saiyajin llegan a la tierra."},
+    {"personajes": [
+        {"id":"0", "nombre":"Goku", "desc":"Guerrero", "raza":"Saiyajin", "origen":"Planeta Vegita", "powerup":"dame chance", "familia":"unos cuantos"},
+        {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+        {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+        {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+        {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+        {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""}
+    ]}
+]

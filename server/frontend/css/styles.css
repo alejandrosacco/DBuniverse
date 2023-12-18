@@ -1,5 +1,5 @@
 body{
-    background-image: url("/frontend/img/DB\ logo.jpg");
+    background-image: url("/img/DB\ logo.jpg");
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -117,6 +117,6 @@ body{
 
 @media (max-width:480px){
     body{
-        background-image: url("/frontend/img/923252.webp");
+        background-image: url("/img/923252.webp");
     }
 }
